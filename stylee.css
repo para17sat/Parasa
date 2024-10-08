@@ -1,0 +1,88 @@
+.header{
+    background-image: url(blob:https://web.telegram.org/f6ac4a93-1bf7-416a-9231-3c44654c0fb9)
+    height: 700px;
+    background-image: url();
+    font-family:"Shantell Sans",cursive;
+    text-align:center;
+}
+/* *{
+    text-align:center;
+}*/
+body{
+    background-color:blanchedalmond;
+}
+.roasting{
+    background-color: white;
+    width: 1000px;
+    height: 700px;
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+.text_algn{
+    text-align: center;
+}
+.green{
+    background-color: rgb(148, 198, 148);
+    margin: -22px auto;
+    width: 950px;
+}
+.light{
+    background-color: rgb(223, 57, 48);
+    margin: -22px auto;
+    width: 950px;
+}.city{
+    background-color: rgb(116, 33, 33);
+    margin: -22px auto;
+    width: 950px;
+}
+.vienna{
+    background-color: brown;
+    margin: -22px auto;
+    width: 950px;
+}
+.italian{
+    background-color: black;
+    margin: -22px auto;
+    width: 950px;
+}
+.gren{
+    color: #547560;
+    font-family: sans-serif, Bold;
+    font-weight: 900;
+}
+.stroke{
+    color: rgb(142, 101, 57);
+}
+h2{
+    color: #e3bc99;
+    font-family: sans-serif;
+
+}
+p{
+    font-family: sans-serif;
+}
+.spectrum{
+    color: azure;
+    font-family: sans-serif, Bold;
+    font-weight: 900;
+    margin: auto;
+}
+h5{
+    font-weight: 1;
+}
+.white{
+    color: #b5b2ae;
+}
+.hr{
+    height: 2px;
+    background-color: #e3bc99;
+}
+p{
+    font-weight: 500;
+}
+h3{
+    color:rgb(55, 14, 14);
+    font-family: sans-serif;
+}
